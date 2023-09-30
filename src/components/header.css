@@ -1,0 +1,23 @@
+header {
+    background: linear-gradient(208deg, #201E1C 16.69%, #F7931A 100%)
+}
+
+
+a {
+    right: 50%;
+    width: 240px;
+    transform: translate(50%);
+    background-color: white;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+#span--header {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+    background-image: url('../assets/icons/mdi_keyboard_arrow_down.svg');
+}

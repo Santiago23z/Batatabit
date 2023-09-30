@@ -1,0 +1,79 @@
+#main--container-image {
+    width: 220px;
+    height: 300px;
+    margin: 0 auto;
+    /* margin-bottom: 50px; */
+    background-image: url('../assets/Bitcoin.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#main--currency-table{
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+}
+
+#container-table {
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+}
+
+#paragraph-updates {
+    margin: 20px auto;
+}
+
+.down {
+    display: inline-block;
+    width: 25px;
+    height: 10px;
+    margin-left: 10px;
+    background-image: url('/src/assets/icons/trending-down\ 1.svg');
+    background-repeat: no-repeat;
+}
+
+.up {
+    display: inline-block;
+    width: 25px;
+    height: 10px;
+    margin-left: 10px;
+    background-image: url('/src/assets/icons/trending-up\ 1.svg');
+    background-repeat: no-repeat;
+}
+
+table tr td {
+    border: 1.5px #FAF8F7 solid ;
+    background-color: white;
+    width: 20%;
+    font-size: .9rem;
+    font-weight: 500;
+    line-height: 1.9rem;
+    color: grey;
+    text-align: center;
+}
+
+/* .one {
+    width: 20px;
+    height: 20px;
+    background-color: url('../assets//Group19.svg');
+}
+
+#two {
+    width: 20px;
+    height: 20px;
+    background-color: url('../assets/icons/trending-up\ 1.svg');
+}
+
+#three {
+    width: 20px;
+    height: 20px;
+    background-color: url('../assets/icons/trending-down\ 1.svg');
+}
+
+#four {
+    width: 20px;
+    height: 20px;
+    background-color: url('../assets/icons/trending-down\ 1.svg');
+} */
