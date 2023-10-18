@@ -54,26 +54,81 @@ table tr td {
     text-align: center;
 }
 
-/* .one {
-    width: 20px;
-    height: 20px;
-    background-color: url('../assets//Group19.svg');
+#iconBatata {
+    top: -10px;
+    left: calc(50% - 20px);
+    background-image: url('../assets/icons/Group-17.svg');
 }
 
-#two {
-    width: 20px;
-    height: 20px;
-    background-color: url('../assets/icons/trending-up\ 1.svg');
+#titleSection {
+    margin: 0 auto;
 }
 
-#three {
-    width: 20px;
-    height: 20px;
-    background-color: url('../assets/icons/trending-down\ 1.svg');
+article {
+    margin: 15px auto;
 }
 
-#four {
-    width: 20px;
-    height: 20px;
-    background-color: url('../assets/icons/trending-down\ 1.svg');
-} */
+#iconClock {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    /* margin-bottom: 10px; */
+    background-image: url('../assets/icons/clock-1.svg');
+    background-repeat: no-repeat;
+}
+
+#iconView {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    /* margin-bottom: 10px; */
+    background-image: url('../assets/icons/eye-1.svg');
+    background-repeat: no-repeat;
+}
+#iconDinero {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    /* margin-bottom: 10px; */
+    background-image: url('../assets/icons/dollar-sign1.svg');
+    background-repeat: no-repeat;
+}
+#iconCheck {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    /* margin-bottom: 10px; */
+    background-image: url('../assets/icons/check-circle1.svg');
+    background-repeat: no-repeat;
+}
+
+#imageOrange {
+    background-image: url('../assets/icons/bitcoinbaby1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#plansTitle {
+    margin: 0 auto;
+}
+
+#articleCard {
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+#recomended {
+    top: -15px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+#spanButton {
+    display: inline-block;
+    width: 25px;
+    vertical-align:bottom;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-image: url('../assets/icons/arrow-right21.svg');
+}
+
